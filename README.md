@@ -2,7 +2,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 80vh;" src="https://blog.stackfindover.com/wp-content/uploads/2022/01/Coding-Typing-Animation.gif">
+      " src="https://blog.stackfindover.com/wp-content/uploads/2022/01/Coding-Typing-Animation.gif">
 <h1 align="center">Hi 👋, I'm Thomas Rossouw</h1>
 <h3 align="center">A Developer, Analyst and Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
